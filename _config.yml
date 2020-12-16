@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Personal Projects
-description: Data science Portfolio
+title: Patrick Poon
+description: A place for my personal blog and data science projects
 github_username: ppoon23
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "personal-blog"
@@ -73,7 +73,7 @@ include:
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
   github: true
-  binder: true
+  binder: false
   colab: true
 
 # Escape HTML in post descriptions
