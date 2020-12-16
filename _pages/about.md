@@ -11,3 +11,6 @@ Currently enrolled as a graduate student at the Master of Science in Data Scienc
 specialize in data visualization and analysis, data engineering, and machine learning. I am passionate about using insights from data extraction to better understand trends and help making informed decisions. 
 <br><br>
 When I'm not coding or studying, I enjoy cooking, listening and playing music, and watching sports. 
+
+
+[Resume](https://docs.google.com/document/d/1Q0RUzoZAsUk13bPul8vdywirUA8TbOGt3d44VDtyUfk/edit?usp=sharing)
