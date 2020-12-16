@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<center><img src="profile.jpg" alt="alt text" width="250" height="250"></center>
+<center><img src="/personal-blog/_pages/profile.jpg" width="250" height="250"></center>
 
 I am a civil engineer with a few years of experience in water resources and geospatial science - remote sensing, but taking a leap of faith into the field of data science.
 Currently enrolled as a graduate student at the Master of Science in Data Science Program at University of San Francisco, I am eager to learn and 
