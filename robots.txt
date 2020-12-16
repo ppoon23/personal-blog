@@ -1,1 +1,1 @@
-Sitemap: https://ppoon23.github.io/blog/sitemap.xml
+Sitemap: https://ppoon23.github.io/personal-blog/sitemap.xml
