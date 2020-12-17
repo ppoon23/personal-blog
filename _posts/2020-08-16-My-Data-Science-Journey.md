@@ -1,12 +1,10 @@
 ---
 layout: post
-description: Data Science Journey Part 1 - Transitioning from Civil Engineering to Data Science and Attending USFCA 
-categories: [blog, ds-j]
+description: My Data Science Journey Part 1  
+categories: [blog, dsj]
 title: My Data Science Journey
 ---
-# My Data Science Journey - Part 1
-
-{% include info.html text="This will be a multi-part series where I talk about my experience to provide some insights on my transition from Civil Engineering to Data Science." %}
+# Transitioning from Civil Engineering to Data Science
 
 COVID-19 has affected a lot of people all over the world in 2020. Unemployment rates were falling, jobless cliams were spiking, and a lot of people were forced to close their business. It is a period full of uncertainty, chaos, and shock. I was one of the more fortunate folks who did not have to face the financial struggles. However I decided to switch my career to data science amid of all this unpredictable times (Am I crazy?!). I would like to share my story and hopefully this experience can inspire future adventurers who want to pursue data science. 
 
