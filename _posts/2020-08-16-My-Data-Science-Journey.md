@@ -1,0 +1,27 @@
+---
+layout: post
+description: Data Science Journey Part 1 - Transitioning from Civil Engineering to Data Science and Attending USFCA 
+categories: [blog, ds-j]
+title: My Data Science Journey
+---
+# My Data Science Journey - Part 1
+
+{% include info.html text="This will be a multi-part series where I talk about my experience to provide some insights on my transition from Civil Engineering to Data Science." %}
+
+COVID-19 has affected a lot of people all over the world in 2020. Unemployment rates were falling, jobless cliams were spiking, and a lot of people were forced to close their business. It is a period full of uncertainty, chaos, and shock. I was one of the more fortunate folks who did not have to face the financial struggles. However I decided to switch my career to data science amid of all this unpredictable times (Am I crazy?!). I would like to share my story and hopefully this experience can inspire future adventurers who want to pursue data science. 
+
+After graduating with a Master's degree in Civil Engineering with an emphasis in Water Resources in 2018, I took an Engineering-In-Training position at a consulting firm. My goal was to become a Professional Engineer (PE) and one day maybe lead a couple projects and become a project manager. My team consisted a lot more experienced PE's around me and taught me a lot on how to deliver amazing projects. I learned a lot from them and managed to pass one of the three PE exams (In California, PE exams require seismic and suverying portions too). 
+
+However, I was slowly realizing how much I missed the research work that I did for my graduate degree. In short, my research was on understanding how wildfires affect evaporation and transpiration on the surface of the Earth. For my thesis, I performed statistical analysis, created maps and graphs, and ultimately trained a supervised learning model. I had no idea what I was doing was pretty much the field of data science! After researching online and finding out more about data science, I decided to give it a try in early 2020. 
+
+If you google how to learn data science, you will see tons of options and it can be quite overwhelming. Bootcamps, MOOC, Kaggle, etc... I ultimately decided to go back to school, and specifically I chose Unversity of San Francisco. There were numerous reasons that I chose USFCA over other universities:
+
+- Faculty members
+- Practical experience
+- Location
+
+First of all, coming from a Civil Engineering background, I value faulty members with practical experiences a lot. Their way of teaching and the materials can change how students feel. The faulty members at USF and The Data Institute are very knowledgable and full of practical experiences. Definitely a check for me. Secondly, USF offers practicum for all students! Students are paired with one of the companies / projects that they like. I personally find this very attractive and this is definitely nice to have on resume. Lastly, San Francisco is a big city and obviously a tech hub :) 
+
+With that being said, I am very happy and excited to be joining the USF Master's of Data Science program this fall. Next, I will talk more about the first few courses, as well as learning remotely. 
+
+Thank you for reading and see you next time!
